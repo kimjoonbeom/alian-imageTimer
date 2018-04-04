@@ -13,8 +13,7 @@ var counter = 1
 
     var myTimer = Timer()
     
-    
-    
+    //123123123213123
     
     @IBOutlet weak var imageCounter: UILabel!
     
